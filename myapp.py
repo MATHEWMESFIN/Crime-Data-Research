@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import geopandas as gpd
 import numpy as np
 import geoplot.crs as gcrs
 import pydeck as pdk
